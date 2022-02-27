@@ -2,4 +2,7 @@
 
 <p align="center">A Responcive Multi Object Cards</p>
 
-![Screenshot](./responcive-cards.png)
+![Screenshot]
+<p align="center">
+  <img src="./responcive-cards.png">
+</p>
