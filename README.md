@@ -4,5 +4,5 @@
 
 ![Screenshot]
 <p align="center">
-  <img src="./responcive-cards.png">
+  <img src="./responcive-cards .png">
 </p>
