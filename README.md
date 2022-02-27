@@ -1,6 +1,5 @@
 # Responcive-Cards
 
+<p align="center">A Flower Store e-Commerce.</p>
 
-<p align="center">
-  <img src="./src/assets/responcive-cards.png">
-</p>
+![Screenshot](./assets/responcive-cards.png)
