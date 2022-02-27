@@ -2,4 +2,4 @@
 
 <p align="center">A Flower Store e-Commerce.</p>
 
-![Screenshot](./assets/responcive-cards.png)
+![Screenshot](./responcive-cards.png)
