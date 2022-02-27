@@ -2,5 +2,5 @@
 
 
 <p align="center">
-  <img src="./assets/responcive-cards.png">
+  <img src="./src/assets/responcive-cards.png">
 </p>
