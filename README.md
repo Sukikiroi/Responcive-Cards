@@ -4,5 +4,5 @@
 
 ![Screenshot]
 <p align="center">
-  <img src="./responcive-cards.png">
+  <img src="https://www.figma.com/community/file/777205710295345433?preview=fullscreen">
 </p>
